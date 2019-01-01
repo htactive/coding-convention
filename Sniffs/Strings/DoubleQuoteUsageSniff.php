@@ -1,11 +1,11 @@
 <?php
 /**
- * Framgia_Sniffs_String_DoubleQuoteUsageSniff.
+ * HTActive_Sniffs_String_DoubleQuoteUsageSniff.
  *
  * Makes sure that any use of Double Quotes ("") are warranted.
  *
  */
-namespace Framgia\Sniffs\Strings;
+namespace HTActive\Sniffs\Strings;
 
 use PHP_CodeSniffer\Sniffs\Sniff;
 use PHP_CodeSniffer\Files\File;

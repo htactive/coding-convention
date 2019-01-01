@@ -1,10 +1,10 @@
 <?php
 /**
- * Framgia_Sniffs_Variable_ValidVariableNameSniff.
+ * HTActive_Sniffs_Variable_ValidVariableNameSniff.
  *
  * Checks the naming of variables and member variables.
  */
-namespace Framgia\Sniffs\Variables;
+namespace HTActive\Sniffs\Variables;
 
 use PHP_CodeSniffer\Sniffs\AbstractVariableSniff;
 use PHP_CodeSniffer\Files\File;
