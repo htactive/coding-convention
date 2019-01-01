@@ -3,7 +3,7 @@
  * A test to ensure that arrays conform to the array coding standard. Use [] instead of array()
  */
 
-namespace Framgia\Sniffs\Arrays;
+namespace HTActive\Sniffs\Arrays;
 
 use PHP_CodeSniffer\Sniffs\Sniff;
 use PHP_CodeSniffer\Files\File;
